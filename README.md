@@ -10,9 +10,9 @@ Sou entusiasta de:
 
 - 📚 **Arquitetura de Software**
 - 🧠 **Clean Architecture, Hexagonal, DDD e TDD**
-- 🛠️ **Java 8, 11, 17 e 21, Spring Boot, PostgreSQL**
+- 🛠️ **Java, Ruby, C#, Go Language, Python, JavaScript, TypeScript Spring Boot, PostgreSQL**
 - 💬 **Mensageria com RabbitMQ**
-- 🎨 **Front-end com HTML, CSS, JavaScript, Angular e React**
+- 🎨 **Front-end com Angular e React**
 - 📦 **Docker, GitLab CI/CD**
 - 📊 **Documentação com Swagger/OpenAPI**
 - ☁️ **Serviços Cloud & Deploy**
