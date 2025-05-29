@@ -1,5 +1,48 @@
-Olá,
+# 👋 Olá, eu sou o Phillip Pimenta
 
-Eu sou Phillip Pimenta, prazer em conhecê-lo. Bem-vindo ao meu repositório no GitHub.
+🎯 Desenvolvedor de Software com foco em **Java** e **Spring Boot**, apaixonado por arquitetura de software, boas práticas e construção de soluções escaláveis e bem estruturadas.
 
-Atualmente sou desenvolvedor de software na Iteris Consultoria e Software, desenvolvendo microsserviços utilizando a linguagem de programação Java e o framework Spring.
+## 🚀 Sobre mim
+
+Atuo como **Desenvolvedor Sênior**, com experiência sólida no desenvolvimento de APIs RESTful, microsserviços, integração de sistemas e mensageria com RabbitMQ. Gosto de trabalhar com código limpo, testes automatizados e soluções robustas que entregam valor real ao negócio.
+
+Sou entusiasta de:
+
+- 📚 **Arquitetura de Software**
+- 🧠 **Clean Architecture, Hexagonal, DDD e TDD**
+- 🛠️ **Java 8, 11, 17 e 21, Spring Boot, PostgreSQL**
+- 💬 **Mensageria com RabbitMQ**
+- 🎨 **Front-end com HTML, CSS, JavaScript, Angular e React**
+- 📦 **Docker, GitLab CI/CD**
+- 📊 **Documentação com Swagger/OpenAPI**
+- ☁️ **Serviços Cloud & Deploy**
+
+## 🧰 Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=java&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+## 📂 Repositórios em destaque
+
+- 🔧 [**Backend - Desafio Arquiteto de Soluções**](https://github.com/phillippimenta/backend-desafio-arquiteto-solucoes/tree/main)  
+  API construída com Java, Spring Boot, PostgreSQL e RabbitMQ. Projeto com arquitetura em camadas, filas assíncronas e documentação via Swagger.
+
+- 🎨 [**Landing Page - Desafio Arquiteto de Soluções**](https://github.com/phillippimenta/landingpage-desafio-arquiteto-solucoes?tab=readme-ov-file)  
+  Landing page responsiva desenvolvida com HTML, CSS e JavaScript para apresentar o projeto de backend e suas funcionalidades.
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-Phillip%20Pimenta-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phillippimenta/)](https://www.linkedin.com/in/phillippimenta/)
+[![GitHub](https://img.shields.io/github/followers/phillippimenta?label=GitHub&style=social)](https://github.com/phillippimenta)
+
+---
+
+> “Simplicidade é a sofisticação máxima.” – Leonardo da Vinci
