@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Phillip Pimenta
+# 👋 Olá, eu sou o Phillip Eduardo Pimenta Forte
 
 🎯 Desenvolvedor de Software com foco em **Java** e **Spring Boot**, apaixonado por arquitetura de software, boas práticas e construção de soluções escaláveis e bem estruturadas.
 
@@ -12,6 +12,7 @@ Sou entusiasta de:
 - 🧠 **Clean Architecture, Hexagonal, DDD e TDD**
 - 🛠️ **Java, Ruby, C#, Go Language, Python, JavaScript, TypeScript Spring Boot, PostgreSQL**
 - 💬 **Mensageria com RabbitMQ**
+- - 🧪 **Testes de Software (JUnit, Mockito, Cypress, Testcontainers)**
 - 🎨 **Front-end com Angular e React**
 - 📦 **Docker, GitLab CI/CD**
 - 📊 **Documentação com Swagger/OpenAPI**
