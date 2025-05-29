@@ -12,7 +12,7 @@ Sou entusiasta de:
 - 🧠 **Clean Architecture, Hexagonal, DDD e TDD**
 - 🛠️ **Java, Ruby, C#, Go Language, Python, JavaScript, TypeScript Spring Boot, PostgreSQL**
 - 💬 **Mensageria com RabbitMQ**
-- - 🧪 **Testes de Software (JUnit, Mockito, Cypress, Testcontainers)**
+- 🧪 **Testes de Software (JUnit, Mockito, Cypress, Testcontainers)**
 - 🎨 **Front-end com Angular e React**
 - 📦 **Docker, GitLab CI/CD**
 - 📊 **Documentação com Swagger/OpenAPI**
