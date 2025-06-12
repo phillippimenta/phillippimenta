@@ -33,7 +33,7 @@ Sou entusiasta de:
 
 ## 📂 Repositórios em destaque
 
-- [Backend - Estudo de Caso: Sistema de Laudos da Cardiologia]([https://pages.github.com/](https://github.com/phillippimenta/backend-desafio-arquiteto-solucoes/tree/main](https://github.com/phillippimenta/hospital-api))
+- [Backend - Estudo de Caso: Sistema de Laudos da Cardiologia](https://github.com/phillippimenta/hospital-api)
 
 ## 📫 Vamos nos conectar?
 
