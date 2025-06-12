@@ -33,11 +33,7 @@ Sou entusiasta de:
 
 ## 📂 Repositórios em destaque
 
-- 🔧 [**Backend - Desafio Arquiteto de Soluções**](https://github.com/phillippimenta/backend-desafio-arquiteto-solucoes/tree/main)  
-  API construída com Java, Spring Boot, PostgreSQL e RabbitMQ. Projeto com arquitetura em camadas, filas assíncronas e documentação via Swagger.
-
-- 🎨 [**Landing Page - Desafio Arquiteto de Soluções**](https://github.com/phillippimenta/landingpage-desafio-arquiteto-solucoes?tab=readme-ov-file)  
-  Landing page responsiva desenvolvida com HTML, CSS e JavaScript para apresentar o projeto de backend e suas funcionalidades.
+- 🔧 [**Backend - Estudo de Caso: Sistema de Laudos da Cardiologia**]([https://github.com/phillippimenta/backend-desafio-arquiteto-solucoes/tree/main](https://github.com/phillippimenta/hospital-api))
 
 ## 📫 Vamos nos conectar?
 
