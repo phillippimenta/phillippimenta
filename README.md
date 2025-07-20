@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 
-Atuo como **Desenvolvedor Sênior**, com experiência sólida no desenvolvimento de APIs RESTful, microsserviços, integração de sistemas e mensageria com RabbitMQ. Gosto de trabalhar com código limpo, testes automatizados e soluções robustas que entregam valor real ao negócio.
+Atuo como **Desenvolvedor**, com experiência sólida no desenvolvimento de APIs RESTful, microsserviços, integração de sistemas e mensageria com RabbitMQ. Gosto de trabalhar com código limpo, testes automatizados e soluções robustas que entregam valor real ao negócio.
 
 Sou entusiasta de:
 
