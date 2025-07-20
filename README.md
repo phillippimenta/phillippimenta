@@ -31,10 +31,6 @@ Sou entusiasta de:
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=java&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-## 📂 Repositórios em destaque
-
-- [Backend - Estudo de Caso: Sistema de Laudos da Cardiologia](https://github.com/phillippimenta/hospital-api)
-
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-Phillip%20Pimenta-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phillippimenta/)](https://www.linkedin.com/in/phillippimenta/)
