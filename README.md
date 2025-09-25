@@ -9,7 +9,7 @@ Atuo como **Desenvolvedor**, com experiência sólida no desenvolvimento de APIs
 Sou entusiasta de:
 
 - 📚 **Arquitetura de Software**
-- 🧠 **Clean Architecture, Hexagonal, DDD e TDD**
+- 🧠 **Clean Architecture e DDD**
 - 🛠️ **Java, Python, JavaScript, TypeScript, Spring Boot, PostgreSQL, MySQL, Oracle, MongoDB**
 - 💬 **Mensageria com RabbitMQ**
 - 🧪 **Testes de Software (JUnit, Mockito, Cypress, Testcontainers)**
@@ -25,7 +25,6 @@ Sou entusiasta de:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=java&logoColor=white)
