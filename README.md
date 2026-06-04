@@ -9,7 +9,7 @@ Atuo como **Desenvolvedor**, com experiência sólida no desenvolvimento de APIs
 Sou entusiasta de:
 
 - 📚 **Arquitetura de Software**
-- 🧠 **Clean Architecture e DDD**
+- 🧠 **Arquitetura Hexagonal e DDD**
 - 🛠️ **Java, Python, JavaScript, TypeScript, Spring Boot, PostgreSQL, MySQL, Oracle, MongoDB**
 - 💬 **Mensageria com RabbitMQ**
 - 🧪 **Testes de Software (JUnit, Mockito, Cypress, Testcontainers)**
